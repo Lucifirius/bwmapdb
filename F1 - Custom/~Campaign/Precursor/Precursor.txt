@@ -1,0 +1,6 @@
+STARCRAFT PRECURSOR CAMPAIGN README
+This zip file contains the campaign found in the Starcraft Demo.  
+To have these levels run properly, they must be placed in the 
+Campaign Folder in your Starcraft directory.  Also, if you open 
+these maps in your campaign editor, there are certain AI scripts 
+that will not be visible or accessible.  Enjoy!
